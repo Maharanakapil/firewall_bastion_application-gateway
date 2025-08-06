@@ -1,0 +1,2 @@
+variable "bastionm" {}
+variable "firewallm" {}
